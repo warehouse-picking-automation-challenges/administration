@@ -23,7 +23,7 @@ There are many ways to commit your code - Here are two!
 3. [Push](https://help.github.com/articles/pushing-to-a-remote/) the changes.
 
 ##### Fork an existing github repository
-1. [Create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) requesting that an administrator fork your existing github repo.  Please include the team name, and the exact github web address of the repository in the request.
+1. [Create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) requesting that an administrator fork your existing github repo.  Please include the team name, and the exact web address of the github repository in the request.
 
 ### Request Help
-Anyone can request help working with the [APC repositories](https://github.com/amazon-picking-challenge).  The easiest was is to [Create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) in the [administration](https://github.com/amazon-picking-challenge/administration) repository.
+Anyone can request help working with the [APC repositories](https://github.com/amazon-picking-challenge).  The easiest way is to [create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) in the [administration](https://github.com/amazon-picking-challenge/administration) repository.
