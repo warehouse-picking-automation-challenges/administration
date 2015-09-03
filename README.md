@@ -1,7 +1,10 @@
 # administration
 This repository holds primary responsibility for administering the Amazon Picking Challenge git organization.
 
-# Organization organization
+### A note on getting help with these directions
+Please [create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) to get help.  Please avoid posting any git-related problems to the mailing list.  Issues will be much better addressed in this forum.
+
+# Organization of the organization
 The [Amazon Picking Challenge Git Organization](https://github.com/amazon-picking-challenge) is the place to display and collaborate on software that was created for the [Amazon Picking Challenge](http://amazonpickingchallenge.org/).
 
 ## Repos and Teams
@@ -18,12 +21,16 @@ Once a team maintainer has been established, they can add additional team member
 There are many ways to commit your code - Here are two!
 
 ##### Standard clone & commit
-1. [Clone](https://help.github.com/articles/cloning-a-repository/) your repository [(look here)](https://github.com/amazon-picking-challenge).
-2. [Add your files](https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/) to the local clone.
-3. [Push](https://help.github.com/articles/pushing-to-a-remote/) the changes.
+This option is straight-forward.  It assumes that a copy of the project exists on a local machine.
+
+1. [Clone](https://help.github.com/articles/cloning-a-repository/) your team's repository from [here](https://github.com/amazon-picking-challenge) to the local machine.
+2. [Add your files](https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/) to the local repository.
+3. [Push](https://help.github.com/articles/pushing-to-a-remote/) the changes back to the APC organization.
 
 ##### Fork an existing github repository
-1. [Create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) requesting that an administrator fork your existing github repo.  Please include the team name, and the exact web address of the github repository in the request.
+This option is a shortcut for teams who already have their project hosted on github *in a single repository*.
+
+1. [Create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) in this repository asking an administrator to fork your existing github repo.  In your request, please include the team name, and the exact web address of the github repository that will be forked.
 
 ### Request Help
 Anyone can request help working with the [APC repositories](https://github.com/amazon-picking-challenge).  The easiest way is to [create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) in the [administration](https://github.com/amazon-picking-challenge/administration) repository.
