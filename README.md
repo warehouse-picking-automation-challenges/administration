@@ -1,14 +1,14 @@
 # administration
-This repository holds primary responsibility for administering the Amazon Picking Challenge git organization.
+This repository holds primary responsibility for administering the Picking Challenge git organization.
 
 ### A note on getting help with these directions
 Please [create an issue](https://github.com/amazon-picking-challenge/administration/issues/new) to get help.  Please avoid posting any git-related problems to the mailing list.  Issues will be much better addressed in this forum.
 
 # Organization of the organization
-The [Amazon Picking Challenge Git Organization](https://github.com/amazon-picking-challenge) is the place to display and collaborate on software that was created for the [Amazon Picking Challenge](http://amazonpickingchallenge.org/).
+The [Picking Challenge Git Organization](https://github.com/amazon-picking-challenge) is the venue to display and collaborate on software that was created for picking challenges, most notably the [Amazon Picking Challenge](http://amazonpickingchallenge.org/).
 
 ## Repos and Teams
-Each team that participated in the [APC](http://amazonpickingchallenge.org/) is assigned their own public **repository**.  Each of these repositories has an associated **team**, whose members have read/write access to their repository.  Only team members have write (push) access to *their* repository; all repositories are publicly readable.
+Each team that participated in a picking challenge is assigned their own public **repository**.  Each of these repositories has an associated **team**, whose members have read/write access to their repository.  Only team members have write (push) access to *their* repository; all repositories are publicly readable.
 
 ### Initial Team Setup
 Each team must appoint at least one [team maintainer](https://help.github.com/articles/giving-team-maintainer-permissions-to-an-organization-member-early-access-program/).  The **team maintainer** has the capability to [add](https://help.github.com/articles/adding-organization-members-to-a-team-early-access-program/) and [remove](https://help.github.com/articles/removing-organization-members-from-a-team-early-access-program/) members from the team.
